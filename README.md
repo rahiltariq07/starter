@@ -28,3 +28,9 @@
 <https://www.w3schools.com/js/default.asp>
 
 ![Learn JS](https://github.com/rahiltariq07/starter/blob/main/documentation/images/imglearnjs.png)
+
+## 2. Font Awsome
+
+> 1. Font Awsome Libraries
+(https://cdnjs.com/libraries/font-awesome)
+

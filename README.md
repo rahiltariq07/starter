@@ -54,3 +54,9 @@
 
 ![fa5](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fa5.png)
 ### Now you can see the icon in your website
+
+## 3. FavIcon
+
+> 1. FavIcon
+<https://favicon.io/>
+

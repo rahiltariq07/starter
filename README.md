@@ -19,5 +19,7 @@
 
 ![Learn Html](https://github.com/rahiltariq07/starter/blob/main/documentation/images/imglearnhtml.png)
 
-> 2. [Learn CSS](https://www.w3schools.com/css/default.asp)
+> 2. Learn CSS
+<https://www.w3schools.com/css/default.asp>
+
 > 3. [Learn JS](https://www.w3schools.com/js/default.asp)

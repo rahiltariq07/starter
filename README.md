@@ -14,7 +14,8 @@
 
 ## 1. W3Schools
 
-> 1. [Learn HTML](https://www.w3schools.com/html/default.asp)
+> 1. Learn HTML
+(https://www.w3schools.com/html/default.asp)
 
 ![Learn Html](https://github.com/rahiltariq07/starter/blob/main/documentation/images/imglearnhtml.png)
 

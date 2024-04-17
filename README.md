@@ -79,3 +79,7 @@
 > Color Hunt 
 <https://colorhunt.co/>
 
+![Color Hunt](https://github.com/rahiltariq07/starter/blob/main/documentation/images/colorhunt.png)
+### You can get different color palettes for your website
+
+## 5. Font

@@ -22,4 +22,9 @@
 > 2. Learn CSS
 <https://www.w3schools.com/css/default.asp>
 
-> 3. [Learn JS](https://www.w3schools.com/js/default.asp)
+![Learn CSS](https://github.com/rahiltariq07/starter/blob/main/documentation/images/imglearncss.png)
+
+> 3. Learn JS
+<https://www.w3schools.com/js/default.asp>
+
+![Learn JS](https://github.com/rahiltariq07/starter/blob/main/documentation/images/imglearnjs.png)

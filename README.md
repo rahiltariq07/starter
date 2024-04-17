@@ -32,5 +32,8 @@
 ## 2. Font Awsome
 
 > 1. Font Awsome Libraries
-(https://cdnjs.com/libraries/font-awesome)
+<https://cdnjs.com/libraries/font-awesome>
+
+![Font Awsome](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fontawsomelib.png)
+Copy the first link
 

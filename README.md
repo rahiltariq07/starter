@@ -57,7 +57,7 @@
 
 ## 3. FavIcon
 
-> 1. FavIcon
+> FavIcon
 <https://favicon.io/>
 
 ![fi1](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fi1.png)
@@ -73,3 +73,9 @@
 
 ![fi5](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fi5.png)
 ### Paste it in VSC in Head Section
+
+## 4. Color Hunt
+
+> Color Hunt 
+<https://colorhunt.co/>
+

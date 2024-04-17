@@ -35,5 +35,22 @@
 <https://cdnjs.com/libraries/font-awesome>
 
 ![Font Awsome](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fontawsomelib.png)
-Copy the first link
+### Copy the first link
 
+![fa1](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fa1.png)
+### Paste it in VSC in Head Section
+
+> 2. Font Awsome
+<https://fontawesome.com/>
+
+![fa2](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fa2.png)
+### Write the name of the icon you want
+
+![fa3](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fa3.png)
+### Copy the HTML code of the icon
+
+![fa4](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fa4.png)
+### Paste it in VSC in Body Section
+
+![fa5](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fa5.png)
+### Now you can see the icon in your website

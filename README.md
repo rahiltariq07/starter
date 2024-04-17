@@ -60,3 +60,16 @@
 > 1. FavIcon
 <https://favicon.io/>
 
+![fi1](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fi1.png)
+
+![fi2](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fi2.png)
+### Go to emoji to icon option
+
+![fi3](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fi3.png)
+### Search your emoji
+
+![fi4](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fi4.png)
+### Download the Emoji
+
+![fi5](https://github.com/rahiltariq07/starter/blob/main/documentation/images/fi5.png)
+### Paste it in VSC in Head Section
